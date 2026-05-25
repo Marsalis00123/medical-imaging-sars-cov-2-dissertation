@@ -8,7 +8,7 @@ Lucrarea abordează prelucrarea imagisticii medicale pulmonare în contextul inf
 
 - [Lucrarea de disertație](docs/disertatie.pdf)
 - [Prezentarea](docs/prezentare.pptx)
-- [Pagina GitHub Pages](https://marsalis00123.github.io/disertatie-umfcd/)
+- [Pagina GitHub Pages](https://marsalis00123.github.io/medical-imaging-sars-cov-2-dissertation/)
 
 ## Ce conține repo-ul
 
