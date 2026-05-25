@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Metode noi de prelucrare a imagisticii medicale pulmonare la pacienții infectați cu SARS-CoV-2"
+authors:
+  - family-names: "Ignătescu"
+    given-names: "Nicolas"
+year: 2021
+type: thesis
+institution: "Universitatea de Medicină și Farmacie \"Carol Davila\" București"
+repository-code: "https://github.com/Marsalis00123/disertatie-umfcd"
